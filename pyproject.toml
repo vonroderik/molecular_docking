@@ -1,0 +1,16 @@
+[project]
+name = "molecular-docking"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gemmi>=0.7.5",
+    "meeko>=0.7.1",
+    "prody>=2.6.1",
+    "rdkit>=2026.3.2",
+    "scipy",
+    "typer[all]",
+    "rich",
+    "questionary",
+]
