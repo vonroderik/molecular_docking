@@ -13,4 +13,5 @@ dependencies = [
     "typer[all]",
     "rich",
     "questionary",
+    "ruff>=0.15.20",
 ]
